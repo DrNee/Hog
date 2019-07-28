@@ -16,4 +16,4 @@ In-Game Screenshots:
 
 ![Alt text](HogSample1.png)
 
-![Alt text](HogSample2.png)
+Projected was completed for UCB's CS61A.
